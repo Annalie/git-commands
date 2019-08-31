@@ -11,3 +11,16 @@ git status
 git add post.txt(name of your file)
 git commit -m "post commit"(you can write any comment)
 git push origin master
+
+-----------
+cd..(nav directory)
+cd folder name
+git status
+git add sample.txt
+git commit -m "updated"
+git push origin master
+
+......clone download....(e.g)
+cd folder name...
+
+
